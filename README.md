@@ -1,0 +1,3 @@
+# LoopHole-in-College-Website
+
+This code can webscrap and get results of all the students in a semester just with few clicks and modification......
